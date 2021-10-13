@@ -33,7 +33,7 @@
         "@fullcalendar/moment": "4.4.2",
         "@fullcalendar/rrule": "4.4.2",
         "@fullcalendar/timegrid": "4.4.2",
-        "@ngneat/transloco": "2.22.0",
+        "@ngneat/transloco": "^3.0.5",
         "apexcharts": "3.28.1",
         "crypto-js": "3.3.0",
         "highlight.js": "11.2.0",
@@ -48,6 +48,7 @@
         "rxjs": "6.6.7",
         "tslib": "2.3.1",
         "web-animations-js": "2.3.2",
+        "yarn": "^1.22.15",
         "zone.js": "0.11.4"
     },
     "devDependencies": {
