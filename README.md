@@ -1,2 +1,0 @@
-# cognitive
-Repaginação do Smart
